@@ -1,0 +1,14 @@
+# candidate eslint.config.mjs (T001) run at baseline: files=1568
+  3551  @typescript-eslint/no-explicit-any
+  2341  no-restricted-syntax :: Use match() from ts-pattern.
+  1667  no-restricted-syntax :: Use functions.
+  1317  no-restricted-syntax :: Thread the value.
+   864  @typescript-eslint/consistent-type-imports
+   789  @typescript-eslint/no-non-null-assertion
+   403  no-restricted-syntax :: Use map/filter/reduce.
+   346  no-restricted-syntax :: Return a fallback value instead.
+   327  no-restricted-syntax :: Use an arrow const.
+   196  no-restricted-syntax :: Use tryCatch from ramda.
+    66  no-param-reassign
+    41  no-restricted-syntax :: Use a string union.
+     1  prefer-const

@@ -1,0 +1,61 @@
+files scanned: 1966
+rule      total   files  by kind
+R-010       5926    1133  integration=1476 source=2511 spec=1190 test-support=44 sample=670 tools=35
+R-011       1895     334  integration=118 source=1627 spec=54 test-support=8 sample=56 tools=32
+R-012         20      18  source=19 sample=1
+R-013        488     172  integration=33 source=423 spec=16 test-support=2 sample=5 tools=9
+R-014        244     127  integration=49 source=137 spec=42 test-support=2 sample=8 tools=6
+R-015        208     101  integration=13 source=105 spec=73 sample=12 tools=5
+R-016        366     161  integration=36 source=203 spec=104 test-support=2 sample=20 tools=1
+R-017       1433     495  integration=343 source=177 spec=795 test-support=1 sample=116 tools=1
+R-018       2080     513  integration=506 source=348 spec=1103 test-support=1 sample=116 tools=6
+R-019        559     241  integration=61 source=387 spec=31 test-support=3 sample=70 tools=7
+R-030        287     287  integration=31 source=227 test-support=2 sample=24 tools=3
+R-031        909     909  integration=369 source=291 test-support=3 sample=244 tools=2
+R-032          3       3  sample=3
+R-033        377     377  source=377
+R-036        135     135  integration=11 source=106 test-support=1 sample=15 tools=2
+R-038        557     217  integration=168 source=73 test-support=28 sample=255 tools=33
+R-039         24      20  integration=5 source=14 test-support=1 sample=4
+R-040        547     259  integration=86 source=255 spec=104 test-support=12 sample=63 tools=27
+R-041       2007    1084  integration=727 source=322 spec=708 test-support=1 sample=247 tools=2
+R-042       5062     411  integration=457 source=4339 spec=72 sample=194
+R-043         90      56  integration=26 source=19 spec=13 test-support=1 sample=31
+R-049       1105     283  integration=147 source=905 test-support=8 sample=32 tools=13
+R-053         63      28  integration=18 source=41 test-support=1 sample=2 tools=1
+R-067        137      65  integration=6 source=98 spec=33
+R-073         82      44  integration=13 source=31 spec=34 tools=4
+R-074        112      46  integration=9 source=99 spec=3 tools=1
+R-090        748     218  integration=102 source=231 spec=245 sample=144 tools=26
+R-100       1463    1275  integration=394 source=562 spec=150 test-support=2 sample=347 tools=8
+R-102        560     153  integration=293 source=96 spec=157 test-support=2 sample=6 tools=6
+R-110         70      29  integration=3 source=61 spec=3 sample=1 tools=2
+R-111         41      23  source=34 spec=7
+R-112       3611     612  integration=302 source=1711 spec=1489 test-support=46 sample=59 tools=4
+R-113        798     211  integration=54 source=319 spec=415 test-support=1 sample=9
+R-114         26       9  integration=3 spec=5 sample=18
+R-115       2248     377  integration=81 source=628 spec=1498 test-support=2 sample=36 tools=3
+R-117       1279     541  integration=184 source=837 spec=98 test-support=5 sample=154 tools=1
+R-120       1139     308  integration=224 source=645 spec=195 sample=63 tools=12
+R-125        111      58  integration=5 source=46 spec=59 test-support=1
+R-126          6       6  integration=1 spec=5
+R-127        214      96  integration=4 source=186 spec=16 sample=6 tools=2
+R-128          6       6  integration=2 source=3 spec=1
+R-129        121      66  integration=1 source=47 spec=67 test-support=3 sample=3
+R-130        217      76  integration=36 source=131 spec=31 test-support=2 sample=9 tools=8
+R-131         15      14  integration=2 source=9 spec=4
+R-132         54      35  integration=5 source=46 sample=3
+R-133         15      15  integration=1 source=11 spec=1 sample=1 tools=1
+R-135        162      77  integration=11 source=126 spec=23 sample=2
+R-141         98      46  integration=34 source=35 spec=15 test-support=1 sample=5 tools=8
+R-146        310     105  integration=37 spec=249 source=22 test-support=2
+R-149         22      22  source=22
+R-150        148      53  integration=3 spec=132 sample=9 tools=4
+R-161        313     244  integration=34 source=190 spec=29 sample=60
+R-162        291     291  integration=133 spec=115 sample=41 tools=2
+R-163        375     168  integration=54 source=255 spec=4 sample=51 tools=11
+R-164       3126     608  integration=380 source=2294 spec=322 test-support=6 sample=102 tools=22
+R-170        508     508  integration=167 spec=304 sample=37
+R-171       2752     364  integration=371 spec=2257 sample=124
+R-172        293     293  integration=54 spec=213 sample=26
+R-173       4333     512  integration=1294 spec=2893 sample=146
